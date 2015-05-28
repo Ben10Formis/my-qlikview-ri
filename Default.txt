@@ -1,0 +1,6 @@
+# my-qlikview-ri
+Apuntes de Qlikview
+
+Ubicación de los archivos exportados dede la aplicación de qlikview por el usuario:
+C:\\users\username\appdata\local\temp
+Observación: como son archivos de windows. Puede ser que la carpeta appdata este oculta. Ir a MiPc en c, clikear shift e ir a tools deshabilitar carpetas ocultas.
